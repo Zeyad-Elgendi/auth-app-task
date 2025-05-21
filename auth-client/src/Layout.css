@@ -1,0 +1,12 @@
+.layout-topbar{
+    background-color: #f97316;
+    padding: 1rem;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.layout-content{
+    padding: 2rem;
+}
